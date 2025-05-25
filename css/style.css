@@ -172,7 +172,7 @@ body {
   height: 0px;
   /* background-color: red; */
   border-radius: 25px;
-  background-image: url(images/logo.png.webp);
+  background-image: url(../images/logo.png.webp);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -325,7 +325,7 @@ a {
 }
 /* ////////////////////////////////MAIN SECTION//////////////////////////////////////////////// */
 .main-container {
-  background-image: url(/images/main_background.jpg);
+  background-image: url(../images/main_background.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -537,46 +537,46 @@ a {
 .trend-front {
   position: absolute;
   z-index: 1;
-  background-image: url(images/trend1.jpg);
+  background-image: url(../images/trend1.jpg);
   background-position: center;
   background-size: cover;
   backface-visibility: hidden;
 }
 .trend-back {
   transform: rotateY(180deg);
-  background-image: url(images/trend2.jpg);
+  background-image: url(../images/trend2.jpg);
   background-position: center;
   background-size: cover;
   position: absolute;
 }
 
 .front1 {
-  background-image: url(images/trend2.jpg);
+  background-image: url(../images/trend2.jpg);
   background-position: center;
   background-size: cover;
 }
 .back1 {
-  background-image: url(images/trend1-hover.jpg);
+  background-image: url(../images/trend1-hover.jpg);
   background-position: center;
   background-size: cover;
 }
 .front2 {
-  background-image: url(images/trend3.jpg);
+  background-image: url(../images/trend3.jpg);
   background-position: center;
   background-size: cover;
 }
 .back2 {
-  background-image: url(images/trend1-hover.jpg);
+  background-image: url(../images/trend1-hover.jpg);
   background-position: center;
   background-size: cover;
 }
 .front3 {
-  background-image: url(images/trend4.jpg);
+  background-image: url(../images/trend4.jpg);
   background-position: center;
   background-size: cover;
 }
 .back3 {
-  background-image: url(images/trend1.jpg);
+  background-image: url(../images/trend1.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -753,7 +753,7 @@ a {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url(images/like1.jpg);
+  background-image: url(../images/like1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -762,7 +762,7 @@ a {
 .like-hover {
   top: -400px;
   left: 0;
-  background-image: url(images/like1-hover.webp);
+  background-image: url(../images/like1-hover.webp);
   position: absolute;
   background-position: center;
   background-size: cover;
@@ -777,19 +777,19 @@ a {
   height: 100%;
 }
 .like-item2 {
-  background-image: url(images/like2.jpg);
+  background-image: url(../images/like2.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .like-item3 {
-  background-image: url(images/like3.jpg);
+  background-image: url(../images/like3.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .like-item4 {
-  background-image: url(images/like4.jpg);
+  background-image: url(../images/like4.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -870,7 +870,7 @@ a {
   width: 100%;
 }
 .news-item {
-  background-image: url(images/news1.jpg);
+  background-image: url(../images/news1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -878,7 +878,7 @@ a {
   height: 400px;
 }
 .news-item1 {
-  background-image: url(images/news2.jpg);
+  background-image: url(../images/news2.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -886,7 +886,7 @@ a {
   height: 400px;
 }
 .news-item2 {
-  background-image: url(images/news3.jpg);
+  background-image: url(../images/news3.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
