@@ -325,7 +325,7 @@ a {
 }
 /* ////////////////////////////////MAIN SECTION//////////////////////////////////////////////// */
 .main-container {
-  background-image: url("images/main_background.jpg");
+  background-image: url(images/main_background.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -762,7 +762,7 @@ a {
 .like-hover {
   top: -400px;
   left: 0;
-  background-image: url("images/like1-hover.webp");
+  background-image: url(images/like1-hover.webp);
   position: absolute;
   background-position: center;
   background-size: cover;
